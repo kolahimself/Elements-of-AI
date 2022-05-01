@@ -1,2 +1,3 @@
-# Elements-of-AI-solutions
-My solutions to exercises that i cover at https://buildingai.elementsofai.com/
+# Elements-of-AI
+
+This Repository contains AI algorithms that i learn at https://buildingai.elementsofai.com/
