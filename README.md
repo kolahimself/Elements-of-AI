@@ -1,3 +1,4 @@
 # Elements-of-AI
 
-This Repository contains AI algorithms that i learn at https://buildingai.elementsofai.com/
+This Repository contains algorithms that make creating AI methods possible, 
+learning from https://buildingai.elementsofai.com/
